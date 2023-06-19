@@ -20,122 +20,122 @@ Are you ready to immerse yourself in the exciting world of web development? Join
 
 Here is the list of projects:
 
-Age Calculator
+1.Age Calculator
 
-Tip Calculator
+2.Tip Calculator
 
-Recipe Book App
+3.Recipe Book App
 
-Dice Roll Simulator
+4.Dice Roll Simulator
 
-Pomodoro Timer
+5.Pomodoro Timer
 
-Rock Paper Scissors Game
+6.Rock Paper Scissors Game
 
-Stopwatch
+7.Stopwatch
 
-Weather App
+8.Weather App
 
-Image Search App
+9.Image Search App
 
-Basic Calculator
+10.Basic Calculator
 
-Dad Jokes Generator
+11.Dad Jokes Generator
 
-Photo Gallery
+12.Photo Gallery
 
-English Dictionary
+13.English Dictionary
 
-Anime Pics Generator
+14.Anime Pics Generator
 
-Note App
+15.Note App
 
-BMI Calculator
+16.BMI Calculator
 
-Random Quote Generator
+17.Random Quote Generator
 
-Temperature Converter
+18.Temperature Converter
 
-Currency Converter
+19.Currency Converter
 
-Loan Calculator
+20.Loan Calculator
 
-Random Emoji
+21.Random Emoji
 
-Weight Converter
+22.Weight Converter
 
-Feedback UI
+23.Feedback UI
 
-Button Ripple Effect
+24.Button Ripple Effect
 
-Digital Clock
+25.Digital Clock
 
-Rotating Image Gallery
+26.Rotating Image Gallery
 
-Random Color Generator
+27.Random Color Generator
 
-Real-time Character Counter
+28.Real-time Character Counter
 
-Profile Statistics
+29.Profile Statistics
 
-Heart Trail Animation
+30.Heart Trail Animation
 
-Mini Calendar
+31.Mini Calendar
 
-Animated Search Bar
+32.Animated Search Bar
 
-Social Media Selector Menu
+33.Social Media Selector Menu
 
-Random Password Generator
+34.Random Password Generator
 
-Testimonial Slider
+35.Testimonial Slider
 
-New Year Countdown
+36.New Year Countdown
 
-Emoji Rating
+37.Emoji Rating
 
-Sticky Navbar
+38.Sticky Navbar
 
-Double Landing Page
+39.Double Landing Page
 
-Auto Text Effect Animation
+40.Auto Text Effect Animation
 
-Background Image Scroll Effect
+41.Background Image Scroll Effect
 
-Blurred Background Popup
+42.Blurred Background Popup
 
-Dark Mode Toggle
+43.Dark Mode Toggle
 
-Drum Kits
+44.Drum Kits
 
-To Do List
+45.To Do List
 
-Random Photos
+46.Random Photos
 
-Multiplication App
+47.Multiplication App
 
-Step Progress Bar
+48.Step Progress Bar
 
-Mouse Event
+49.Mouse Event
 
-Loading Bar
+50.Loading Bar
 
-Image Slider
+51.Image Slider
 
-Video Trailer Popup
+52.Video Trailer Popup
 
-Clock
+53.Clock
 
-Month calendar
+54.Month calendar
 
-Counter
+55.Counter
 
-Q&A Section
+56.Q&A Section
 
-Tabs
+57.Tabs
 
-Background Video
+58.Background Video
 
-Sidebar Menu
+59.Sidebar Menu
 
-Navbar menu
+60.Navbar menu
